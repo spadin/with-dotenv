@@ -1,0 +1,3 @@
+echo "MY_ENV_VAR: $MY_ENV_VAR"
+echo "ACCESS_KEY: $ACCESS_KEY"
+echo "SECRET_KEY: $SECRET_KEY"

@@ -1,0 +1,4 @@
+#! /usr/bin/env sh
+ENV_FILE=$1
+shift
+env `cat $ENV_FILE | xargs` $@
